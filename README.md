@@ -11,16 +11,16 @@ Each course includes numerous hands-on labs & projects to apply the concepts and
 ## This professional certificate contains the following courses
 _________________________________________________________________________________________________________________________________________________________________________
 
-Introduction to Data Engineering
-Python for Data Science, AI & Development
-Python Project for Data Engineering
-Introduction to Relational Databases
-Databases and SQL for Data Science with Python
-Introduction to NoSQL Databases
-Introduction to Big Data with Spark and Hadoop
-Data Engineering and Machine Learning using Spark
-Hands-on Introduction to Linux Commands and Shell Scripting
-Relational Database Administration
-ETL and Data Pipelines with Shell, Airflow and Kafka
-Getting started with Data Warehousing and BI Analytics
-Data Engineering Capstone Project
+* Introduction to Data Engineering
+* Python for Data Science, AI & Development
+* Python Project for Data Engineering
+* Introduction to Relational Databases
+* Databases and SQL for Data Science with Python
+* Introduction to NoSQL Databases
+* Introduction to Big Data with Spark and Hadoop
+* Data Engineering and Machine Learning using Spark
+* Hands-on Introduction to Linux Commands and Shell Scripting
+* Relational Database Administration
+* ETL and Data Pipelines with Shell, Airflow and Kafka
+* Getting started with Data Warehousing and BI Analytics
+* Data Engineering Capstone Project
