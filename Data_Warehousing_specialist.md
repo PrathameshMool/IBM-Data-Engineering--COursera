@@ -10,8 +10,8 @@
 * Querying Data, Performance Tuning, Troubleshooting
 * Gouvernance and Compliance
 * Overview of the DataOps Methodology
-   ** DataOps Methodology:
-   ** Benefits of using the DataOps methodology:
+   * DataOps Methodology:
+   * Benefits of using the DataOps methodology:
 * Career Opportunities
 * Screenshots
 
